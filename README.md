@@ -1,0 +1,2 @@
+# SmartCalc
+My scientific calculator
