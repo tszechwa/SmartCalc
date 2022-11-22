@@ -1,4 +1,3 @@
-# SmartCalc
 ![SMARTCALC](./images/calculator.webp)
 
 **This project is its own implementation of a scientific calculator using reverse Polish notation (dextra algorithm), as well as with the construction of a graph and a special mode "credit calculator".**
