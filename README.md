@@ -3,6 +3,7 @@
 
 **This project is its own implementation of a scientific calculator using reverse Polish notation (dextra algorithm), as well as with the construction of a graph and a special mode "credit calculator".**
 
+* The program has a graphical user interface, based on the GUI library with API for C++ - "Qt 6.2.3"
 * The code is written according to google style
 * Handling of exceptional situations
 * The program is implemented using the MVC pattern
